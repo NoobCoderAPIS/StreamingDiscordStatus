@@ -1,0 +1,1 @@
+go to the replit.com website then make a file and follow the file written, if you have made a secret write a TOKEN then in the value section type your discord account token. So how do you get the token? the easy way to follow this method 👉 https://youtu.be/opsSgpH2JVY
